@@ -7,7 +7,7 @@
  
  #### Why GIT and Github?
  
- Have you ever worked on writing something, maintaining a file and have to make edits again and again, and savethem, revisit them, compare them etc... sounds clumsy and time taking:tired_face:
+ Have you ever worked on writing something, maintaining a file and have to make edits again and again, save them, revisit them, compare them etc... sounds clumsy and time taking:tired_face:
 </br> This is one of the reasons for using GIT, which is callled as __*version control*__.
  GIT keeps track of the history of the things that you have been working upon.
  
