@@ -1,4 +1,4 @@
- # **The coding train videos on GitHub : video 1**
+ # **The coding train videos on Git and GitHub : video 1**
  ##### video link : https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=1
  
  #### The video's title is : Introduction: GIT and GITHUB for poets.
