@@ -34,5 +34,5 @@
   1. give it a name and the file is created.
   * Commit : term for save, saves all the edits made to the file.
   while commiting, we can also add some description for reference of the edits made.
-  the comit button is found onn the bottom of the file 
+  the comit button is found onn the bottom of the file .
   * commmit hash : a stange, unique and long combination of letters and numbers, identifier for a commit. It is present on top right and in the url following file name/ commit/.
