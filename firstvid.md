@@ -31,7 +31,7 @@
  * File : It can have many formats like .txt, .md, .c etc . It is where we can write what we want to.
   to create a new file:
   1. click on the new file button in the repository .
-  1. give it a name and the file is created
+  1. give it a name and the file is created.
   * Commit : term for save, saves all the edits made to the file.
   while commiting, we can also add some description for reference of the edits made.
   the comit button is found onn the bottom of the file 
